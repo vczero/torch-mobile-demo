@@ -2,7 +2,7 @@
 
 ### 安装依赖  
 1.cd MyFirstProject    
-2.yarn add     
+2.cnpm install 或者 yarn add （需要安装下 yarn）    
 3.cd MyFirstProject/ios     
 4.pod install        
 
